@@ -21,21 +21,21 @@ At the start of the project in 2024, the state of UNIL’s websites (which hadn�
 
 All of this negatively affected the experience of the university’s 17,000 students and 5,000 staff members.
 
-### It was time to act
+## It was time to act
 
 The challenge wasn’t just to redesign the websites, but also to define a new information architecture tailored to each audience, create new content, and put sustainable thinking at the heart of the approach.
 
 The objectives set out helped the team tackle four key challenges in this eco-responsible redesign.
 
-### **Restructuring the Information Architecture**
+## Restructuring the Information Architecture
 
 The first was the restructuring of the information architecture. By conducting a user survey, the team identified priority user flows and managed to merge 80 independent websites into a single one, reducing the total number of pages by around **66%**.
 
-### **Designing a lasting Design System**
+## Designing a lasting Design System
 
 The second challenge was to design a more sustainable design system by limiting the number of components and defining flexible page templates. This simplification also made the code easier to maintain over time. The result: cleaner pages and stronger visual consistency.
 
-### **Reducing Image and Video Impact**
+## Reducing Image and Video Impact
 
 Thirdly, the team noticed that 80% of images were used purely for decoration. It took some technical creativity to reduce image weights and data transfers linked to videos.
 
@@ -43,11 +43,11 @@ The compression technique they developed reduced image size by an average of 89%
 
 ![Comparison image](compared_images.webp)
 
-### Applying Best Practices
+## Applying Best Practices
 
 Finally, the team applied a full range of best web practices to make pages lighter and limit data exchange: using vector font formats (WOFF2), web-optimised image formats (WebP), minimal source code, optimised internal caching, and more.
 
-### **A Team Effort Towards Eco-Design**
+## A Team Effort Towards Eco-Design
 
 The challenge wasn’t easy, but the team succeeded by clearly defining goals for design and implementation right from the start. The project is the result of many iterations, close collaboration among stakeholders both internal and external, and above all, a genuine desire to learn and explore questions around eco-design.
 

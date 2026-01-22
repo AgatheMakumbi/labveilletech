@@ -14,11 +14,11 @@ html {
 }
 
 :root {
-  /* Couleurs principales */
-  --bg-deep: #f8f9fa;
-  --accent-primary: #00A9E6;
-  --accent-mid-blue: #33bced;
-  --accent-light-blue: #66cef3;
+  /* Couleurs principales - Mode Clair */
+  --bg-deep: #ffffff;
+  --accent-primary: #0095cc;
+  --accent-mid-blue: #00A9E6;
+  --accent-light-blue: #33bced;
   --accent-secondary: #EEEEEE;
   
   /* Surfaces et effets de verre */
@@ -31,10 +31,10 @@ html {
   --bg-secondary: var(--glass-surface);
   --bg-tertiary: rgba(0, 169, 230, 0.08);
   
-  /* Textes */
-  --text-primary: #1a1a1a;
-  --text-secondary: #4a5568;
-  --text-muted: #718096;
+  /* Textes - Contraste AAA (7:1) */
+  --text-primary: #0d0d0d;
+  --text-secondary: #333333;
+  --text-muted: #5a5a5a;
   
   /* Accents et interactions */
   --accent-hover: #0095cc;
@@ -103,8 +103,8 @@ body {
   /* Light Blue Background: Radial gradient */
   background-image: radial-gradient(
     circle at center,
-    rgba(0, 169, 230, 0.15) 0%,
-    rgba(102, 206, 243, 0.1) 40%,
+    rgba(0, 169, 230, 0.08) 0%,
+    rgba(102, 206, 243, 0.05) 40%,
     var(--bg-deep) 100%
   );
   background-attachment: fixed;
@@ -112,6 +112,53 @@ body {
   background-position: center center;
 
   position: relative;
+}
+
+/* Mode Nuit */
+[data-theme="dark"] {
+  /* Couleurs principales - Mode Nuit */
+  --bg-deep: #0a1929;
+  --accent-primary: #33bced;
+  --accent-mid-blue: #00A9E6;
+  --accent-light-blue: #66cef3;
+  --accent-secondary: #1e2936;
+  
+  /* Surfaces et effets de verre */
+  --glass-surface: rgba(0, 169, 230, 0.08);
+  --glass-border: rgba(0, 169, 230, 0.25);
+  --glass-block: rgba(30, 41, 54, 0.8);
+
+  /* Arrière-plans */
+  --bg-primary: var(--bg-deep);
+  --bg-secondary: rgba(0, 169, 230, 0.1);
+  --bg-tertiary: rgba(0, 169, 230, 0.12);
+  
+  /* Textes - Contraste AAA inversé */
+  --text-primary: #e8f4f8;
+  --text-secondary: #b8d4e6;
+  --text-muted: #8bb4cc;
+  
+  /* Accents et interactions */
+  --accent-hover: #66cef3;
+  --border-color: rgba(0, 169, 230, 0.3);
+  
+  /* Tags */
+  --tag-bg: rgba(0, 169, 230, 0.15);
+  --tag-color: var(--accent-light-blue);
+  
+  /* Ombres plus prononcées en mode nuit */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="dark"] body {
+  background-image: radial-gradient(
+    circle at center,
+    rgba(0, 169, 230, 0.15) 0%,
+    rgba(0, 149, 204, 0.1) 40%,
+    var(--bg-deep) 100%
+  );
 }
 
 

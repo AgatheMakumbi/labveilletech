@@ -22,26 +22,5 @@
       <guid>http://localhost:1313/labveilletech/tags/sustainabledesign/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Eco-Design</title>
-      <link>http://localhost:1313/labveilletech/tags/eco-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveilletech/tags/eco-design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/labveilletech/tags/tag1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveilletech/tags/tag1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag2</title>
-      <link>http://localhost:1313/labveilletech/tags/tag2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/labveilletech/tags/tag2/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
