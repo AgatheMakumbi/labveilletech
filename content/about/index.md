@@ -15,7 +15,8 @@ Along the way, I discovered **UX Design** as the perfect balance between busines
 
 ## My IKIGAI
 
-![My IKIGAI](/images/ikigai.svg)
+![My IKIGAI](ikigai.svg)
+
 
 This is a snapshot of what drives me: **Curiosity, creativity, people, and digital experiences that make life a little easier.**
 
