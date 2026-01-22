@@ -45,6 +45,26 @@
   margin-bottom: var(--spacing-md);
 }
 
+.about-content-full img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: var(--spacing-lg) auto;
+  border-radius: 0.5rem;
+  object-fit: contain;
+  box-shadow: var(--shadow-sm);
+}
+
+.about-content-full img[alt*="IKIGAI"] {
+  max-width: 720px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  padding: 0.5rem;
+}
+
 .about-content-full a {
   color: var(--accent-primary);
   text-decoration: underline;

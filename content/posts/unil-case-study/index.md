@@ -4,6 +4,7 @@ title: "Sustainable Web Design"
 date: 2026-01-22
 draft: false
 tags: ["SustainableDesign", "CaseStudy"]
+image: "cover_unil.webp"
 ---
 # **Sustainable Web Design: A Case Study from the University of Lausanne**
 
