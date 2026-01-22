@@ -66,6 +66,6 @@ I do believe LLMs are incredible learning tools, but only if we understand **wh
 
 ## References
 
-- [Mika, Alex. AI & LLM for UX Design. Ramotion, 19 November 2025.](https://www.ramotion.com/)
+- [Mika, Alex. AI & LLM for UX Design. Ramotion, 19 November 2025.](https://www.ramotion.com/blog/ai-and-llm-for-ux-design/)
 
 
