@@ -39,7 +39,7 @@ theme = "mana"
     
     # Home page specific avatar (optional - falls back to general avatar if not set)
     [params.avatar.home]
-      url = "/images/design_labveilltech.png"
+      url = "images/design_labveilltech.png"
       # assetPath = "images/home-avatar.png"
       # enableResize = false  # Override general setting for home page
     
