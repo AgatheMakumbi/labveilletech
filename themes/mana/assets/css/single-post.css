@@ -75,7 +75,7 @@
 }
 
 .toc-toggle:hover {
-  background-color: var(--accent-mid-purple-rgba-05);
+  background-color: var(--accent-mid-blue-rgba-05);
 }
 
 .toc-burger-icon {
@@ -161,13 +161,13 @@
 
 .toc-nav a:hover {
   color: var(--text-primary);
-  background-color: var(--accent-mid-purple-rgba-05);
+  background-color: var(--accent-mid-blue-rgba-05);
 }
 
 .toc-nav a.active {
   color: var(--accent-primary);
   border-left-color: var(--accent-primary);
-  background-color: var(--accent-mid-purple-rgba-01);
+  background-color: var(--accent-mid-blue-rgba-01);
 }
 
 .toc-nav ul ul {

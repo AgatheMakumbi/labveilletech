@@ -92,7 +92,7 @@
 }
 
 .menu-link.active {
-  color: var(--accent-light-purple);
+  color: var(--accent-light-blue);
   background-color: var(--bg-secondary);
 }
 
