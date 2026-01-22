@@ -53,7 +53,7 @@ theme = "mana"
   # Set enabled = true and provide your widget ID to use the floating widget
   # Leave enabled = false or unset to use a simple link instead
   [params.buyMeACoffee]
-    enabled = false
+    enabled = true
     id = "yourwidgetid"
     description = "Support me on Buy me a coffee!"
     message = ""
