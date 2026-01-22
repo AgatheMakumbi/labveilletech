@@ -39,7 +39,7 @@ theme = "mana"
     
     # Home page specific avatar (optional - falls back to general avatar if not set)
     [params.avatar.home]
-      # url = "https://example.com/home-avatar.jpg"
+      url = "/images/design_labveilltech.png"
       # assetPath = "images/home-avatar.png"
       # enableResize = false  # Override general setting for home page
     
@@ -53,7 +53,7 @@ theme = "mana"
   # Set enabled = true and provide your widget ID to use the floating widget
   # Leave enabled = false or unset to use a simple link instead
   [params.buyMeACoffee]
-    enabled = true
+    enabled = false
     id = "yourwidgetid"
     description = "Support me on Buy me a coffee!"
     message = ""
@@ -68,9 +68,9 @@ theme = "mana"
   # Info for the copyright notice in the footer.
   [params.copyright]
     # Set this if you want a range, rather than just the current year (as of the last time you ran "hugo build").
-    startYear = 2025
+    startYear = 2026
     # Set this if you don't want the copyright owner to be the same value as the "title" field above.
-    owner = "Your name here"
+    owner = "made with ❤️ by Agathe Makumbi"
   
   # Footer text (optional)
   footerText = "Built with Hugo and Mana theme"
