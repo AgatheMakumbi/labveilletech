@@ -8,6 +8,7 @@ theme = "mana"
  description = "A personal UX tech watch where I share things I discover, learn, and find interesting along the way."
  author = "Agathe Makumbi"
  favicon = "/favicon/favicon.ico"
+ logoURL = "/labveilletech/"  
  heroTitleLine1 = "Welcome to my UX Radar"
  heroTitleLine2 = "Exploring and tracking UX trends"
   
