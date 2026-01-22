@@ -2,6 +2,7 @@ baseURL = 'https://agathemakumbi.github.io/labveilletech/'
 languageCode = 'en-US'
 title = "Agathe's UX Radar"
 theme = "mana"
+buildFuture = true
 
 # Theme configuration
 [params]

@@ -17,11 +17,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/labveilletech/posts/llm-use/</loc>
-    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/labveilletech/tags/learning-with-ai/</loc>
     <lastmod>2026-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,6 +38,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/labveilletech/tags/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/labveilletech/posts/llm-use/</loc>
     <lastmod>2026-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
