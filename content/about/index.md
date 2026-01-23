@@ -71,7 +71,7 @@ This is a snapshot of what drives me: **Curiosity, creativity, people, and digit
 
 This website was created with **Hugo**, a simple and fast **Static Site Generator (SSG)**.
 
-I used the **Mana theme**, which I customised using the theme documentation and a bit of help from **GitHub Copilot** (since I don’t have a background in Go).
+I used the **Mana theme**, which I customised using the theme documentation and a bit of help from **GitHub Copilot**.
 
 For publishing, the site runs on **GitHub Pages** with a **GitHub Action** set up for continuous deployment.
 
