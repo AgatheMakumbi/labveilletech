@@ -13,7 +13,7 @@
       <link>http://localhost:1313/labveilletech/posts/tracking-ux-trends/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/labveilletech/posts/tracking-ux-trends/</guid>
-      <description>&lt;h2 id=&#34;how-i-set-up-my-ux-research-tracking-system&#34;&gt;How I Set Up My UX Research Tracking System&lt;/h2&gt;&#xA;&lt;p&gt;I’ve been saving content that I find interesting while scrolling on social media or browsing the web. Like most people, I rarely go back to my saved folder, forgetting about all those gems I found right when I could actually use them.&lt;/p&gt;&#xA;&lt;p&gt;Creating this website made me think more seriously about how to track information that matters and build an easy-to-maintain system that helps me come back to those precious insights when needed.&lt;/p&gt;</description>
+      <description>&lt;style&gt;&#xA;@media (min-width: 1025px) {&#xA;  .single-post img[src$=&#34;ux-trends-cover.webp&#34;],&#xA;  .single-post img[src$=&#34;google_favourites_system.png&#34;],&#xA;  .single-post img[src$=&#34;uxmindmap.webp&#34;] {&#xA;    width: 70%;&#xA;    max-width: 70%;&#xA;    margin-left: auto;&#xA;    margin-right: auto;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;how-i-set-up-my-ux-research-tracking-system&#34;&gt;How I Set Up My UX Research Tracking System&lt;/h2&gt;&#xA;&lt;p&gt;I’ve been saving content that I find interesting while scrolling on social media or browsing the web. Like most people, I rarely go back to my saved folder, forgetting about all those gems I found right when I could actually use them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

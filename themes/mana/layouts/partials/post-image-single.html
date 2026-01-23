@@ -14,5 +14,8 @@
       loading="eager"
       width="1200"
       height="630">
+    {{ with .Params.image_caption }}
+      <p class="post-image-caption">{{ . }}</p>
+    {{ end }}
   </div>
 {{ end }}

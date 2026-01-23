@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX Research on Agathe&#39;s UX Radar</title>
+    <link>http://localhost:1313/labveilletech/tags/ux-research/</link>
+    <description>Recent content in UX Research on Agathe&#39;s UX Radar</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/labveilletech/tags/ux-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing UX Reseach Methods</title>
+      <link>http://localhost:1313/labveilletech/posts/ux-methods/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/labveilletech/posts/ux-methods/</guid>
+      <description>&lt;h2 id=&#34;how-to-choose-the-right-qualitative-research-methods-and-why-i-struggle-with-this&#34;&gt;How to Choose the Right Qualitative Research Methods (and Why I Struggle With This)&lt;/h2&gt;&#xA;&lt;p&gt;When starting a UX research project, the methods you pick can really shape the responses you get, and therefore your insights. Figuring out what you actually want to learn, then matching it to the right method, is key. To be honest, I often struggle with this step myself. I found this article super helpful for getting unstuck, so I wanted to share my take on it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

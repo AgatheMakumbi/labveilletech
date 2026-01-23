@@ -16,6 +16,13 @@
       <description>&lt;style&gt;&#xA;@media (min-width: 1025px) {&#xA;  .single-post img[src$=&#34;ux-trends-cover.webp&#34;],&#xA;  .single-post img[src$=&#34;google_favourites_system.png&#34;],&#xA;  .single-post img[src$=&#34;uxmindmap.webp&#34;] {&#xA;    width: 70%;&#xA;    max-width: 70%;&#xA;    margin-left: auto;&#xA;    margin-right: auto;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;how-i-set-up-my-ux-research-tracking-system&#34;&gt;How I Set Up My UX Research Tracking System&lt;/h2&gt;&#xA;&lt;p&gt;I’ve been saving content that I find interesting while scrolling on social media or browsing the web. Like most people, I rarely go back to my saved folder, forgetting about all those gems I found right when I could actually use them.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The UX of AI</title>
+      <link>http://localhost:1313/labveilletech/posts/ux-of-ai/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/labveilletech/posts/ux-of-ai/</guid>
+      <description>&lt;h2 id=&#34;the-ux-of-ai-patterns-and-mental-models&#34;&gt;The UX of AI: Patterns and Mental Models&lt;/h2&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re reading this, you&amp;rsquo;re probably tech-curious and familiar with AI chatbots. Actually, these days &lt;em&gt;everyone&lt;/em&gt; is using tools like ChatGPT, Gemini, or Copilot.&lt;/p&gt;&#xA;&lt;p&gt;We might love one and get frustrated with another, even when the interfaces look similar. This is where &lt;strong&gt;UX of AI&lt;/strong&gt; becomes fascinating  a fresh field that&amp;rsquo;s redefining how we design intelligent systems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;these-patterns-shape-our-experience&#34;&gt;These Patterns Shape Our Experience&lt;/h2&gt;&#xA;&lt;p&gt;When I started researching, I discovered &lt;strong&gt;tiny interaction patterns&lt;/strong&gt; that make or break our AI experience: inputs, suggestions, &amp;ldquo;stream of thought&amp;rdquo; responses, attachments, filters, voice &amp;amp; tone&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sustainable Web Design</title>
       <link>http://localhost:1313/labveilletech/posts/unil-case-study/</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
@@ -28,6 +35,13 @@
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/labveilletech/posts/llm-use/</guid>
       <description>&lt;h2 id=&#34;how-to-smartly-use-llms-to-learn-ux&#34;&gt;How to (Smartly) Use LLMs to Learn UX&lt;/h2&gt;&#xA;&lt;p&gt;Large Language Models (LLMs) have become almost irresistible tools for learning. They’re getting smarter, more specialised, and more helpful, delivering better results and empowering education. Yet, concerns are growing about dependency and the fear that LLMs might replace our own mental effort.&lt;/p&gt;&#xA;&lt;p&gt;In this article, I’d like to share my thoughts on how to use LLMs to learn about UX, and what to keep in mind when doing so.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Choosing UX Reseach Methods</title>
+      <link>http://localhost:1313/labveilletech/posts/ux-methods/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/labveilletech/posts/ux-methods/</guid>
+      <description>&lt;h2 id=&#34;how-to-choose-the-right-qualitative-research-methods-and-why-i-struggle-with-this&#34;&gt;How to Choose the Right Qualitative Research Methods (and Why I Struggle With This)&lt;/h2&gt;&#xA;&lt;p&gt;When starting a UX research project, the methods you pick can really shape the responses you get, and therefore your insights. Figuring out what you actually want to learn, then matching it to the right method, is key. To be honest, I often struggle with this step myself. I found this article super helpful for getting unstuck, so I wanted to share my take on it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

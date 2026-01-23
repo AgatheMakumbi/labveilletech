@@ -27,6 +27,21 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/labveilletech/posts/ux-of-ai/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/labveilletech/tags/ux-of-ai/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/labveilletech/tags/ux-patterns-for-ai/</loc>
+    <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/labveilletech/tags/ux-trends/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -59,6 +74,16 @@
   </url><url>
     <loc>http://localhost:1313/labveilletech/posts/llm-use/</loc>
     <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/labveilletech/posts/ux-methods/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/labveilletech/tags/ux-research/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
