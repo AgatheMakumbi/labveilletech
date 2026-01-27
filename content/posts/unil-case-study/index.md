@@ -1,10 +1,10 @@
 
 ---
 title: "Sustainable Web Design"
-date: 2026-01-22
+date: 2026-01-27
 draft: false
 tags: ["SustainableDesign", "CaseStudy"]
-image: "cover_unil.webp"
+image: "cover_Unil.webp"
 ---
 # **Sustainable Web Design: A Case Study from the University of Lausanne**
 
@@ -14,13 +14,13 @@ We need a sustainable web. While the need for sustainability has been around for
 
 Understanding these principles and being able to approach design projects with a sustainable mindset has become a must-have skill for UX designers.
 
-## The UNIL Digital Team
+## The Unil Digital Team
 
-This mindset is already emerging in many organisations around the world, and many Swiss companies are ahead of the curve. I had the chance to see how the digital team of the University of Lausanne (UNIL) managed to unify and modernise the university’s websites with an eco-friendly approach. The result is remarkable and significantly improves the user experience.
+This mindset is already emerging in many organisations around the world, and many Swiss companies are ahead of the curve. I had the chance to see how the digital team of the University of Lausanne (Unil) managed to unify and modernise the university’s websites with an eco-friendly approach. The result is remarkable and significantly improves the user experience.
 
-At the start of the project in 2024, the state of UNIL’s websites (which hadn’t been redesigned since 2014) was worrying: over 300 independent sites, no shared communication strategy, confusing navigation between pages, duplicated content, and more than 600 contributors.
+At the start of the project in 2024, the state of Unil’s websites (which hadn’t been redesigned since 2014) was worrying: over 300 independent sites, no shared communication strategy, confusing navigation between pages and duplicated content. The websites had more than 600  contributors with different skill levels, which made coordination a major challenge.
 
-All of this negatively affected the experience of the university’s 17,000 students and 5,000 staff members.
+All of this negatively affected the experience of the university’s 17,000 students, 5,000 staff members, and the wider public, which is Unil’s primary audience.
 
 ## It was time to act
 
@@ -40,7 +40,7 @@ The second challenge was to design a more sustainable design system by limiting 
 
 Thirdly, the team noticed that 80% of images were used purely for decoration. It took some technical creativity to reduce image weights and data transfers linked to videos.
 
-The compression technique they developed reduced image size by an average of 89%. The team also reconsidered how images contributed to the message on each page.  Video thumbnails were also compressed, and videos now only load once the user starts playback, a method known as lazy loading.
+The compression technique they developed reduced image size by an average of 89%. The team also reconsidered how images contributed to the message on each page.  Video thumbnails were also compressed, and videos now only load once the user starts playback.
 
 ![Comparison image](compared_images.webp)
 
@@ -59,7 +59,7 @@ Eco-design is now a key skill for designers and developers. This project shows t
 
 ## References
 
-- RÉMI GEORGES, 2025. Presentation on sustainable digital design. University of Lausanne (UNIL).
+- RÉMI GEORGES, 2025. Presentation on sustainable digital design. University of Lausanne (Unil).
 
 - [The Top UX Design Trends in 2026 — Sustainable UX moves from trend to policy](https://www.uxdesigninstitute.com/blog/ux-design-trends/) [accessed 22 January 2026].
 

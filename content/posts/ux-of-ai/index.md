@@ -1,7 +1,7 @@
 ---
 title: "The UX of AI"
 date: 2026-01-23
-draft: false
+draft: true
 tags: ["UX of AI", "UX patterns for AI"]
 image: "ux-patterns.webp"
 image_caption: "Illustration of UX patterns for AI, Emily Campbell."

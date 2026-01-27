@@ -2,7 +2,7 @@
 title: "How I Track UX Trends"
 date: 2026-01-23
 draft: false
-tags: ["UX Trends", "#selflearning"]
+tags: ["UX Trends", "selflearning"]
 image: "ux-trends-cover.webp"
 ---
 
