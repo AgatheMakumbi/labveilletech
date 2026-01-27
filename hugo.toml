@@ -1,4 +1,4 @@
-baseURL = 'https://agathemakumbi.github.io/labveilletech/'
+baseURL = 'https://myuxradar.netlify.app/'
 languageCode = 'en-US'
 title = "Agathe's UX Radar"
 theme = "mana"
@@ -8,8 +8,8 @@ buildFuture = true
 [params]
  description = "A personal UX tech watch where I share things I discover, learn, and find interesting along the way."
  author = "Agathe Makumbi"
- favicon = "/favicon/favicon.ico"
- logoURL = "/labveilletech/"  
+  favicon = "/favicon/favicon.ico"
+  logoURL = "/"
  heroTitleLine1 = "Welcome to my UX Radar"
  heroTitleLine2 = "Exploring and tracking UX trends"
   
